@@ -454,6 +454,8 @@ flowchart LR
 
 > **Why Gmail and not Office 365 Outlook?** The Office 365 connector needs a work or school Microsoft 365 mailbox. This lab runs on a personal account, so Gmail is the working choice. In a company already on Microsoft 365, Office 365 Outlook is the natural default. The designer steps are the same.
 
+<img width="3406" height="1886" alt="EC521D9D-7612-4C4A-9A50-F83476AEC9AA" src="https://github.com/user-attachments/assets/647a23d2-de65-4478-962b-a026fd096053" />
+
 ---
 
 ### Step 8 — Connect the Logic App to the Action Group (CLI)
