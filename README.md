@@ -550,6 +550,9 @@ resourcecontainers
 | order by resourceGroup asc
 ```
 
+<img width="3420" height="1896" alt="1EEDA0B5-4DEF-4718-A1A1-66FC5952F068" src="https://github.com/user-attachments/assets/07d6c1b1-ce44-494b-b544-96331f5d207a" />
+
+
 6. **Done Editing**
 
 **Tile 2 — alert pipeline health**
