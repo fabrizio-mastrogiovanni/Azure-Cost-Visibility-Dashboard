@@ -2,7 +2,7 @@
 
 **Status:** ✅ Deployed with Terraform and tested end to end (budget → Action Group → Logic App → Gmail).
 
-> 🎬 **Video walkthrough:** _add link_
+> 🎬 **Video walkthrough:** https://www.loom.com/share/34ed5e62a2a1498e81b37bd1271a1096
 
 ---
 
